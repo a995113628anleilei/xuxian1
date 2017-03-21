@@ -1,0 +1,45 @@
+
+body{
+	width: 100%;
+}
+
+/*-----------------------------------------底部---------------------------------------------*/
+footer{
+	border-top: 0.03125rem solid #cacaca;
+	width: 100%;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%
+	height: 1.28125rem;
+    background: white;
+}
+footer figure{
+	width: 25%;
+	float: left;
+	
+	text-align: center;
+	font-size: 0.34375rem;
+	padding-bottom: 0.078125rem;
+}
+footer figure img{
+	width: 0.578125rem;
+    height: 0.578125rem;
+	margin-top: 0.1875rem;
+}
+
+footer a{
+    color: #424644;
+}
+footer figure:hover {
+    background: #ffc000;
+}
+
+
+
+
+
+
+
+
+

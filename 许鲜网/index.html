@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html ng-app="myApp">
+	<head>
+		<!--                         移动视口  和弹性布局                                -->
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<script src="lib/flexible.js" type="text/javascript" charset="utf-8"></script>
+		
+		<!--                      清除样式                             -->
+		<link rel="stylesheet" type="text/css" href="lib/reset.css"/>		
+		
+		<!--                      轮播                                                      -->
+		<script src="lib/swiper-3.3.1.min.js" type="text/javascript" charset="utf-8"></script>
+		<link rel="stylesheet" type="text/css" href="lib/swiper-3.3.1.min.css"/>
+		
+		<!--                      脚部样式                                                       -->
+		<link rel="stylesheet" type="text/css" href="lib/index.css"/>
+		
+		<!--                      angularJS                             -->
+		<script src="lib/angular.min.js" type="text/javascript" charset="utf-8"></script>
+		
+		<!--                        路由                                                          -->
+		<script src="lib/angular-ui-router.js" type="text/javascript" charset="utf-8"></script>
+		<script src="lib/server.js" type="text/javascript" charset="utf-8"></script>
+		
+		<script src="lib/angular-css.js" type="text/javascript" charset="utf-8"></script>
+		
+		
+		
+		<meta charset="UTF-8">
+		<title></title>
+	</head>
+	<body>
+		
+		<div ui-view>
+			
+		</div>
+		
+	
+		<!-----------------------------------底部----------------------------------------------------->
+		<footer>
+			<a ui-sref="home">
+				<figure>
+					<img src="img/home.png" />
+					<figcaption>
+						首页
+					</figcaption>
+				</figure>
+			</a>
+			<a ui-sref="shop">
+				<figure>
+					<img src="img/feiji.png" />
+					<figcaption>
+						全国送
+					</figcaption>
+				</figure>
+			</a>
+			<a ui-sref="cart">
+				<figure>
+					<img src="img/gwc2.png" />
+					<figcaption>
+						购物车
+					</figcaption>
+				</figure>
+			</a>
+			<a ui-sref="mine">
+				<figure>
+					<img src="img/wd.png" />
+					<figcaption>
+						我的
+					</figcaption>
+				</figure>
+			</a>
+
+		</footer>
+	</body>
+	
+	<script src="home.js" type="text/javascript" charset="utf-8"></script>
+	
+</html>

@@ -1,0 +1,150 @@
+.wrap{
+	width: 10.0rem;
+	height: 6.53125rem;
+	background: url(../img/yd_bg.png);
+	background-size: 10.0rem 6.53125rem;
+	position: relative;
+}
+.head_set{
+	width: 0.65625rem;
+	height: 0.671875rem;
+	position: absolute;
+	top: 0.625rem;
+	right: 0.53125rem;	
+}
+.head_msg{
+	height: 2.28125rem;
+	width: 10.0rem;
+	padding: 1.40625rem 0 0 0.5625rem;
+}
+.head_msg figure{
+	height: 2.28125rem;
+}
+.head_msg figure .yd_header{
+	width: 2.125rem;
+	height: 2.28125rem;
+	float: left;
+}
+.head_msg figure p{
+	line-height: 0.96875rem;
+	font-size: 0.546875rem;
+	padding-left:2.59375rem; 
+
+}
+.head_msg figure p a{
+	color: white;
+}
+.head_msg figure p .yd_huiyno{
+	width: 1.0625rem;
+	height: 0.453125rem;
+	margin-left:0.203125rem; 
+}
+.head_msg figure .member{
+	width: 2.71875rem;
+	height: 0.71875rem;
+	
+}
+.head_bottom figure{
+	width: 3.328125rem;
+	height: 2.21875rem;
+	text-align: center;
+	margin-top: 0.15625rem;
+	float: left;	
+	background: url(../img/line.jpg) no-repeat right;
+	
+}
+.head_bottom figure:nth-last-of-type{
+	background: none;
+}
+.head_bottom figure img{
+	width: 1.234375rem;
+	height: 0.9375rem;
+	margin-top:0.15625rem; 
+}
+.head_bottom figure p{
+	height: 0.546875rem;
+}
+.head_bottom figure a{
+	font-size: 0.375rem;
+	font-weight: bolder;
+}
+.content_top{
+	margin-top:0.40625rem ;
+	width: 9.609375rem;
+	height: 1.75rem;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	border-bottom: 1px solid #dbdbdb;
+}
+.content_top figure{
+	width: 1.75rem;
+	height: 1.46875rem;	
+	text-align: center;
+}
+.content_top figure img{
+	width: 0.625rem;
+	height: 0.5625rem;
+	/*padding-top: 0.40625rem;*/
+}
+.content_top figure p{
+	padding-top: 0.40625rem;
+	font-size: 0.375rem;
+	font-weight: bold;	
+}
+.content_top figure:nth-of-type(5){
+	background: url(../img/yd_jiangT.png) no-repeat left;
+	background-size: 0.203125rem 1.75rem;
+	
+}
+.content_conter{
+	height: 2.65625rem;
+	width: 9.609375rem;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	border-bottom: 1px solid #dbdbdb;
+}
+.content_conter figure{
+	width: 2.015625rem;
+	height: 1.46875rem;	
+	text-align: center;
+}
+.content_conter figure img{
+	width: 0.96875rem;
+	height: 0.96875rem;
+	padding-top: 0.625rem;
+}
+.content_conter figure p{
+	padding-top: 0.40625rem;
+	font-size: 0.375rem;
+	font-weight: bold;	
+}
+.content_bottom{
+	
+	height: 2.65625rem;
+	width: 9.609375rem;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	border-bottom: 1px solid #dbdbdb;
+}
+.content_bottom figure{
+	width: 2.015625rem;
+	height: 1.46875rem;	
+	text-align: center;
+}
+.content_bottom figure img{
+	width: 0.96875rem;
+	height: 0.96875rem;
+	padding-top: 0.515625rem;
+}
+.content_bottom figure p{
+	padding-top: 0.40625rem;
+	font-size: 0.375rem;
+	font-weight: bold;	
+}
+.footer img{
+	width: 10rem;
+	height: 3.515625rem;
+}

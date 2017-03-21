@@ -1,0 +1,76 @@
+{
+    "status": {
+        "code": "0",
+        "message": "success"
+    },
+    "data": [
+        {
+            "area_id": "110101",
+            "area_name": "东城区"
+        },
+        {
+            "area_id": "110102",
+            "area_name": "西城区"
+        },
+        {
+            "area_id": "110105",
+            "area_name": "朝阳区"
+        },
+        {
+            "area_id": "110106",
+            "area_name": "丰台区"
+        },
+        {
+            "area_id": "110107",
+            "area_name": "石景山区"
+        },
+        {
+            "area_id": "110108",
+            "area_name": "海淀区"
+        },
+        {
+            "area_id": "110109",
+            "area_name": "门头沟区"
+        },
+        {
+            "area_id": "110111",
+            "area_name": "房山区"
+        },
+        {
+            "area_id": "110112",
+            "area_name": "通州区"
+        },
+        {
+            "area_id": "110113",
+            "area_name": "顺义区"
+        },
+        {
+            "area_id": "110114",
+            "area_name": "昌平区"
+        },
+        {
+            "area_id": "110115",
+            "area_name": "大兴区"
+        },
+        {
+            "area_id": "110116",
+            "area_name": "怀柔区"
+        },
+        {
+            "area_id": "110117",
+            "area_name": "平谷区"
+        },
+        {
+            "area_id": "110200",
+            "area_name": "县"
+        },
+        {
+            "area_id": "110228",
+            "area_name": "密云县"
+        },
+        {
+            "area_id": "110229",
+            "area_name": "延庆县"
+        }
+    ]
+}

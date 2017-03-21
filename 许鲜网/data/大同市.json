@@ -1,0 +1,56 @@
+{
+    "status": {
+        "code": "0",
+        "message": "success"
+    },
+    "data": [
+        {
+            "area_id": "140201",
+            "area_name": "市辖区"
+        },
+        {
+            "area_id": "140202",
+            "area_name": "城区"
+        },
+        {
+            "area_id": "140203",
+            "area_name": "矿区"
+        },
+        {
+            "area_id": "140211",
+            "area_name": "南郊区"
+        },
+        {
+            "area_id": "140212",
+            "area_name": "新荣区"
+        },
+        {
+            "area_id": "140221",
+            "area_name": "阳高县"
+        },
+        {
+            "area_id": "140222",
+            "area_name": "天镇县"
+        },
+        {
+            "area_id": "140223",
+            "area_name": "广灵县"
+        },
+        {
+            "area_id": "140224",
+            "area_name": "灵丘县"
+        },
+        {
+            "area_id": "140225",
+            "area_name": "浑源县"
+        },
+        {
+            "area_id": "140226",
+            "area_name": "左云县"
+        },
+        {
+            "area_id": "140227",
+            "area_name": "大同县"
+        }
+    ]
+}

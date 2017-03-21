@@ -1,0 +1,90 @@
+{
+    "status": {
+        "code": "0",
+        "message": "success"
+    },
+    "data": [
+        {
+            "data": [
+                {
+                    "img": "",
+                    "parent_id": "188",
+                    "classifyname": "果汁",
+                    "icon": "http://imgcdn.xuxian.com/upload/2016/08/08/20160808164754157.png",
+                    "classifyid": "152"
+                },
+                {
+                    "img": "",
+                    "parent_id": "188",
+                    "classifyname": "cookie",
+                    "icon": "http://imgcdn.xuxian.com/upload/2016/08/02/20160802181254525.png",
+                    "classifyid": "155"
+                },
+                {
+                    "img": "",
+                    "parent_id": "188",
+                    "classifyname": "沙拉",
+                    "icon": "http://imgcdn.xuxian.com/upload/2016/09/02/20160902120158438.png",
+                    "classifyid": "156"
+                },
+                {
+                    "img": "",
+                    "parent_id": "188",
+                    "classifyname": "面包",
+                    "icon": "http://imgcdn.xuxian.com/upload/2016/08/12/20160812101529931.png",
+                    "classifyid": "173"
+                },
+                {
+                    "img": "",
+                    "parent_id": "188",
+                    "classifyname": "咖啡",
+                    "icon": "http://imgcdn.xuxian.com/upload/2016/09/12/20160912182719904.png",
+                    "classifyid": "174"
+                },
+                {
+                    "img": "",
+                    "parent_id": "188",
+                    "classifyname": "便当",
+                    "icon": "http://imgcdn.xuxian.com/upload/2016/07/12/20160712140610852.png",
+                    "classifyid": "176"
+                },
+                {
+                    "img": "",
+                    "parent_id": "188",
+                    "classifyname": "乳品",
+                    "icon": "http://imgcdn.xuxian.com/upload/2016/09/01/20160901185201620.png",
+                    "classifyid": "179"
+                },
+                {
+                    "img": "",
+                    "parent_id": "188",
+                    "classifyname": "饭团",
+                    "icon": "http://imgcdn.xuxian.com/upload/2016/07/24/20160724002613311.png",
+                    "classifyid": "184"
+                },
+                {
+                    "img": "",
+                    "parent_id": "188",
+                    "classifyname": "卤西西",
+                    "icon": "http://imgcdn.xuxian.com/upload/2016/08/08/20160808193548504.png",
+                    "classifyid": "193"
+                },
+                {
+                    "img": "",
+                    "parent_id": "188",
+                    "classifyname": "西点",
+                    "icon": "http://imgcdn.xuxian.com/upload/2016/08/12/20160812101948826.png",
+                    "classifyid": "197"
+                },
+                {
+                    "img": "",
+                    "parent_id": "188",
+                    "classifyname": "零食",
+                    "icon": "http://imgcdn.xuxian.com/upload/2016/09/12/20160912184028149.png",
+                    "classifyid": "204"
+                }
+            ],
+            "name": "轻食"
+        }
+    ]
+}

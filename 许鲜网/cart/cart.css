@@ -1,0 +1,120 @@
+div:first-child h2 {
+	width: 10rem;
+	height: 1.5625rem;
+	color:#424644;
+	line-height: 1.5625rem;
+	text-align: center;
+}
+#addr {
+	width: 10rem;
+	height: 1.40625rem;
+	border-top: 0.03125rem solid #cacaca;
+	border-bottom: 0.03125rem solid #cacaca;
+	background:  #ffd040;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+#addr p {
+	text-indent: 0.3125rem;
+}
+#choose h2 {
+	width: 10.0rem;
+	height: 1.25rem;
+	line-height: 1.25rem;
+	text-indent: 0.3125rem;
+	background: #f5f6f8;
+}
+#goodlist section {
+	display: flex;
+	border-bottom: 0.03125rem solid #cacaca;
+	margin: 9px 0;
+}
+#goodlist section img {
+	width:3.5625rem;
+	height: 2.59375rem;
+	margin: 0 0 0.28125rem 0.15625rem;
+}
+#goodlist section div {
+	width: 5.9375rem;
+	height: 2.59375rem;
+	display: flex;
+	flex-direction: column;
+	margin: 0 0 0 0.1875rem;
+	position: relative;
+}
+#goodlist section div i {
+	font-style: normal;
+	color: #cacaca;
+}
+#goodlist section div b {
+	font-weight: normal;
+}
+#goodlist section div strong {
+	font-size: 0.625rem;
+	font-weight: bold;
+}
+#goodlist section div em {
+	font-style: normal;
+	width: 2.1875rem;
+	height: 0.625rem;
+	background: #66cbcc;
+	color: #fff;
+	font-weight: bold;
+	line-height: 0.625rem;
+	text-align: center;
+	border-radius: 0.15625rem;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
+#goodlist section div span {
+	border:1px solid #cacaca;
+	width: 1.0rem;
+	height: 1.0rem;
+	line-height: 1.0rem;
+	text-align: center;
+	font-weight: bold;
+}
+#goodlist section div #reduce {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
+#goodlist section div #count {
+	position: absolute;
+	right: 1.0rem;
+	bottom: 0;
+	border-left: none;
+	border-right: none;
+}
+#goodlist section div #add {
+	position: absolute;
+	right: 2.0rem;
+	bottom: 0;
+}
+#calc {
+	width: 10rem;
+	height: 1.5rem;
+	border-top:0.03125rem solid #cacaca;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	position: fixed;
+	bottom: 1.28125rem;
+	left: 0;
+}
+#calc div:first-child span {
+	margin-left: 0.75rem;
+	color: #ff602c;
+	font-weight: bold;
+	font-size: 0.625rem;
+}
+#calc div:last-child {
+	width: 3.4375rem;
+	height: 1.5rem;
+	line-height: 1.5rem;
+	text-align: center;
+	background: #ff602c;
+}

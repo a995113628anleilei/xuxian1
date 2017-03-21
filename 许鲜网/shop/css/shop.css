@@ -1,0 +1,112 @@
+.shop_container{
+	background: #f1f1f1;
+}
+
+
+.shop_top {
+	height:1.5625rem;
+	width: 100%;
+	line-height:1.5625rem;
+	text-align: center;
+	color: #ffc000;
+	font-size: 0.46875rem;
+	border-bottom: 0.03125rem solid #cacaca;
+	background: white;
+	position: fixed;
+	top: 0;
+	
+}
+.shop_banner {
+	margin-top: 1.5625rem;
+}
+.shop_banner img {
+	width: 100%;
+	vertical-align: middle;
+}
+.shop_title {
+	margin: 0.125rem 0;
+}
+.shop_title img {
+	width: 100%;
+}
+.shop_main{
+	width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	margin-bottom: 1.12158rem;
+}
+.shop_main ul {
+	width: 95%;
+}
+.shop_main ul li{
+	margin-bottom: 0.375rem;
+	padding-bottom: 0.3125rem;
+	background: white;
+}
+.shop_main ul li .introduce{
+	padding-left: 0.34375rem;
+	font-weight: bold;
+	font-size: 0.5rem;
+}
+.shop_main img {
+	width: 100%;
+	margin-bottom: 0.96875rem;
+}
+.shop_main ul li p{
+	margin-top: 0.46875rem;
+	padding-left: 0.34375rem;
+	color:#6f6f85 ;
+	font-size: 0.328125rem;
+}
+.shop_main .price {
+	display: flex;
+}
+.shop_main section {
+	box-sizing: border-box;
+	width: 4.34375rem;
+	height: 0.96875rem;
+	background:white;
+	margin-top:0.5rem;
+	margin-left: 0.234375rem;
+}
+.shop_main li .aloneBuy{
+	width: 4.34375rem;
+	height: 0.96875rem;
+	line-height:0.96875rem;
+	border: 0.03125rem solid #333;
+	border-radius: 0.078125rem;
+	display: flex;
+	justify-content: space-between;
+}
+.shop_main li .groupBuy {
+	width: 4.34375rem;
+	height: 0.96875rem;
+	line-height:0.96875rem;
+	border: 0.03125rem solid #ff602c;
+	border-radius: 0.078125rem;
+	display: flex;
+	justify-content: space-between;
+}
+.shop_main .price_left {
+	width: 62%;
+	height: 100%;
+	text-align: center;
+	color: #333;
+	font-weight: bold;
+	font-size: 0.390625rem;
+}
+.shop_main .price_right {
+	width: 38%;
+	height: 100%;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	font-size: 0.390625rem;
+}
+.shop_main .aloneBuy .price_right {
+	background: #333333;
+}
+.shop_main .groupBuy .price_right {
+	background: #ff602c;
+}
