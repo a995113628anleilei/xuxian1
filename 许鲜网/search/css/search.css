@@ -1,0 +1,76 @@
+
+header{
+	width: 10rem;
+	height: 1.40625rem;
+	background: #fecf4f;
+}
+header input{
+	width: 8.125rem;
+	height: 0.9375rem;
+	background: #fff6ce;
+	color: #a9a9a9;
+	border: none;
+	outline: none;
+	margin: 0.21875rem 0 0 0.21875rem;
+	text-indent: 0.3125rem;
+	float: left;
+}
+header div{
+	float: right;
+	padding:  0.46875rem 0.25rem 0 0;
+	font-size: 0.40625rem;
+	line-height: 0.40625rem;
+}
+
+
+.s1{
+	width: 10rem;
+	height: 1.96875rem;
+	font-size: 0.40625rem;
+	line-height: 1.96875rem;
+	text-indent: 0.90625rem;
+	background: url(../../img/bottom_hoticon.png) no-repeat 0.453125rem center;
+	background-size: 0.34375rem 0.46875rem;
+}
+
+.hot li{
+	height: 1.21875rem;
+	line-height: 1.21875rem;
+	font-size: 0.375rem;
+	color: #333333;
+	text-align: center;
+	background: #f5f5f5;
+	padding: 0 0.34375rem;
+	margin: 0 0.25rem;
+	display: block;
+	float: left;
+}
+.hot ul{
+	margin-left: 0.1875rem;
+}
+
+
+/*历史记录*/
+.lishi{
+	clear: both;
+	width: 10rem;
+	padding: 1.65625rem 0 0 0.9375rem;
+	font-size: 0.375rem;
+	color: #333333;
+	background: url(../../img/search.jpg) no-repeat 0.453125rem 1.65625rem;
+	background-size: 0.46875rem 0.46875rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+footer{
+	display: none;
+}

@@ -133,3 +133,20 @@ header .header-right{
 .top2 .top2-right li:hover{
 	border-bottom: 0.0625rem solid #000000;
 }
+
+
+
+
+
+
+
+
+
+.swiper-container {
+    width: 10rem;
+    height: 4.875rem;
+} 
+.swiper-container img{
+    width: 10rem;
+    height: 4.875rem;
+} 

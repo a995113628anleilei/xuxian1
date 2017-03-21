@@ -13,6 +13,7 @@
 	</div>
 	<a href=""><img src="./img/home3.png" class="header-right" /></a>
 </header>
+
 <div class="top1">
 	<a href="">
 		<div class="top1-left">
@@ -40,7 +41,7 @@
 	</div>
 </div>
 <div class="top2">
-	<a href="">
+	<a ui-sref="search">
 		<div class="top2-left">
 
 		</div>
@@ -56,7 +57,7 @@
 			<a href="">
 				<li>礼品</li>
 			</a>
-			<li>{{ name }}</li>
+			<li></li>
 			<li></li>
 		</ul>
 	</div>
@@ -64,12 +65,12 @@
 
 <!--    轮播        -->
 <div class="swiper-container" >
-	<div class="swiper-wrapper">
-		
-		<!--<div class="swiper-slide" ng-repeat="item in lunboCtrl">
-			
-			<img ng-src="{{ item.activity.img }}" />
-		</div>-->
+	<div class="swiper-wrapper">	
+		<div class="swiper-slide" ng-repeat="item in data">			
+			<img ng-src="{{ item.bannerimg }}" />
+		</div>
 	</div>
 	<div class="swiper-pagination"></div>
 </div>
+
+

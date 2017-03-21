@@ -18,4 +18,9 @@ var app = angular.module("myApp",['ui.router'])
 		                url: '/mine',
 		                templateUrl: './mine/mine.html'
 		            })
+		            //搜索路由
+		            .state('search', {
+		                url: '/search',
+		                templateUrl: './search/search.html'
+		            })
 		        }]);
